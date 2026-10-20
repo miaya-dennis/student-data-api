@@ -14,6 +14,11 @@
   "endangered-species-of-canada": {
     "file": "data/endangered-species-of-canada.csv",
     "description": "A list of endangered species in Canada that shows conservation status"
-  }
+  },
+   "college_majors_incomes": {
+    "file": "data/college_majors_incomes.csv",
+    "description": " data on rankings of college majors, per median income of graduates. Including gender demographics and percentages of employed vs. unemployed graduates with that major."
+ }
+
 }
 
